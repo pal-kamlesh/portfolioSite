@@ -106,7 +106,7 @@ export default function Projects() {
             <span className="text-accent-gradient">Featured Projects</span>
           </h2>
           <p className="text-xl text-slate-400 text-center mb-16">
-            Here are some projects I'm proud of
+            Here are some projects that demonstrate my technical capabilities
           </p>
 
           <div className="grid md:grid-cols-2 gap-8">

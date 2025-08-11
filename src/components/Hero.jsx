@@ -101,8 +101,9 @@ export default function Hero() {
         </h2>
 
         <p className="text-lg md:text-xl text-slate-300 mb-12 max-w-2xl mx-auto leading-relaxed opacity-0 animate-fadeInUp animation-delay-600">
-          I craft modern web applications using the MERN stack, creating
-          seamless user experiences with clean code and innovative solutions.
+          I build scalable web applications using the MERN stack, delivering
+          robust user experiences through clean, maintainable code and
+          innovative technical solutions.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center opacity-0 animate-fadeInUp animation-delay-800">

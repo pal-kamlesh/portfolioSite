@@ -54,10 +54,10 @@ export default function Contact() {
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-4">
-            <span className="text-accent-gradient">Let's Work Together</span>
+            <span className="text-accent-gradient">Let's Connect</span>
           </h2>
           <p className="text-xl text-slate-400 text-center mb-16">
-            Ready to turn your ideas into powerful web solutions!
+            Ready to contribute to your team's success!
           </p>
 
           <div className="grid md:grid-cols-2 gap-12">
@@ -68,9 +68,8 @@ export default function Contact() {
                   Get In Touch
                 </h3>
                 <p className="text-slate-300 text-lg leading-relaxed mb-8 ">
-                  I'm always open to discussing new opportunities, creative
-                  projects, or potential collaborations. Let's create something
-                  amazing together!
+                  Feel free to reach out if you have any questions, think we
+                  could work together, or just want to connect. ✌️
                 </p>
               </div>
 
@@ -209,7 +208,7 @@ export default function Contact() {
                     disabled={isSubmitting}
                     rows={5}
                     className="w-full px-4 py-3 bg-slate-700 border border-slate-600 rounded-lg focus:ring-2 focus:ring-accent focus:border-transparent text-white placeholder-slate-400 resize-none disabled:opacity-50 disabled:cursor-not-allowed"
-                    placeholder="Tell me about your project..."
+                    placeholder="Please be nice:)"
                   />
                 </div>
 

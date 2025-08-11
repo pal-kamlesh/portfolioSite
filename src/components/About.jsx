@@ -26,16 +26,17 @@ export default function About() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <p className="text-lg text-slate-300 leading-relaxed">
-                I'm a passionate Full Stack Developer with expertise in modern
-                web technologies. I love creating digital experiences that are
-                not only functional but also beautiful and user-friendly.
+                I'm a dedicated Full Stack Developer with strong expertise in
+                modern web technologies. I excel at developing digital solutions
+                that combine functionality, aesthetics, and optimal user
+                experience.
               </p>
 
               <p className="text-lg text-slate-300 leading-relaxed">
-                Currently working on building scalable web applications and
-                always eager to learn new technologies. I believe in writing
-                clean, maintainable code and following best practices in
-                software development.
+                I have experience building scalable web applications and
+                continuously expand my technical skills. I'm committed to
+                writing clean, maintainable code while adhering to industry best
+                practices and development standards.
               </p>
 
               <div className="pt-4">
